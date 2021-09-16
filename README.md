@@ -4,7 +4,7 @@ The goal is to update the given index.html so that it conforms with accessibilit
 
 To do: 
 
-- add image alt properties
+- final check before submission
 
 ## Built With
 
