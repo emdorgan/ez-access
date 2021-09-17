@@ -9,9 +9,9 @@ This website has been refactored to better conform with accessbility guidelines.
 - Fixed a broken link using an ID selector
 - Images now have 'alt' text.
 
-![commented HTML](assets/screenshots/html-with-comments.png "The updated HTML with comments)
+![commented HTML](assets/screenshots/html-with-comments.png "The updated HTML with comments")
 
-![commented CSS](assets/screenshots/css-with-comments.png "The updated CSS with comments)
+![commented CSS](assets/screenshots/css-with-comments.png "The updated CSS with comments")
 
 ## Built With
 
