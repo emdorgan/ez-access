@@ -5,9 +5,6 @@ The goal is to update the given index.html so that it conforms with accessibilit
 To do: 
 
 - add screenshot & description to this readme.
-- add css comments (and try to consolidate the h2 selector)
-- Try to consolidate and organize the css (look up semantic structure for CSS).
-- review indentation of HTML and CSS file to make sure it's correct.
 
 ## Built With
 
